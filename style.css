@@ -1,0 +1,43 @@
+.container
+{
+	max-width:1200px;
+	margin: 0 auto;
+	background: #f9f9f9;
+	font-size: 26px;
+	padding: 25px;
+}
+.parallax
+{
+	background: url('friends2.jpg') no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.parallaxa
+{
+	background: url('friends.jpg') no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.parallaxb
+{
+	background: url('friends5.jpg') no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.parallaxc
+{
+	background: url('friends4.jpg') no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.parallaxd
+{
+	background: url('friends3.jpg') no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
